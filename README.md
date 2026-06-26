@@ -212,13 +212,12 @@ The objective of this project is to create a photography portfolio platform usin
 
 # 👨‍💻 Developed By
 
-## Sreerang Prasad
+## Abhishek S
 
 MCA Student
 Full Stack & Web Developer
 
-GitHub:
-[https://github.com/Hazy-Arrow](https://github.com/Hazy-Arrow)
+
 
 ---
 
